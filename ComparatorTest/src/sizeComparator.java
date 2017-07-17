@@ -1,7 +1,7 @@
 import java.util.*;  
 
 
-class sizeComparator implements Comparator<HDTV>
+class sizeComparator implements Comparator<HDTV> // implementung comparator to compare two objects.
 {  
 		public int compare(HDTV s1,HDTV s2)  
 		{  
